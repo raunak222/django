@@ -4,3 +4,4 @@ runs:
 ## use
   using: python
   main: manage.py
+gray-dark
