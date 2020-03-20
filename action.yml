@@ -1,0 +1,5 @@
+name: "Django action222"
+description: "django blog"
+runs:
+  using: python
+  main: manage.py
